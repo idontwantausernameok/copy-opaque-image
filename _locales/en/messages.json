@@ -1,0 +1,8 @@
+{
+    "extensionName": {
+        "message": "Copy Opaque Image"
+    },
+    "extensionDescription": {
+        "message": "Copy image with transparency removed, from the context menu."
+    }
+}
